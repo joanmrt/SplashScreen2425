@@ -45,7 +45,7 @@ public class SplashActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish(); // Close the splash activity
             }
-        }, 5000); // Delay for 2 seconds (adjust as needed)
+        }, 5000);
     }
 
     @Override
