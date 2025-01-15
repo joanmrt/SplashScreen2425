@@ -3,4 +3,8 @@
     <dimen name="logo_size">48sp</dimen>
     <dimen name="version_size">20sp</dimen>
     <dimen name="version_spacing">3sp</dimen>
+    <dimen
+        name="screen_title_size">40dp</dimen>
+    <dimen
+        name="menu_item_size">34dp</dimen>
 </resources>
